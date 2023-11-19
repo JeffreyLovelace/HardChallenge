@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "qDerMPPlsRz6yVVVg25AW31ZF2sGmVZOb/KBrrJV23Pb9fSdIayyb6jcKgKEXdoLukkbMb3kxPI3cvQJP4PyQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jeffrey\\Desktop\\SmartVault-Interview-V5 (1) (3) (1) (1) (3)\\HardChallenge\\SmartVault.Program\\SmartVault.Program.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jeffrey\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jeffrey\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jeffrey\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jeffrey\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
